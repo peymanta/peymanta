@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peymanta
 - 👀 A android developer
 - 🥰 Android UI designer
-- 🌱 I’m currently learning to java
+- 🌱 I’m currently learning to Flutter
 
 
 <!---
