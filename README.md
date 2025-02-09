@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peymanta
-- 💙 mid-level Flutter App developer
 - 👀 Mobile application developer
-- 🌱 I would like to learn Python
+- 💙 mid-level Flutter App developer
+- 📚 learning react
 
 
 <!---
